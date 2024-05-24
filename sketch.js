@@ -6,6 +6,7 @@ functionunction setup() {
 function draw() {
   fill("pink");
   stroke("rgb(255,255,255) ");
-  if(mouseIsPressed);
+  if(mouseIsPressed){
   circle(mouseX, mouseY, 30, 50 );
+}
 }
